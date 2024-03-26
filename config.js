@@ -21,10 +21,10 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
+global.Owner = ["+923400738466"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+923400738466"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+923400738466"];
+global.OwnerName = "RumanKhalil";
 global.BotName = "SACHITH";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
